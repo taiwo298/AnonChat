@@ -1,5 +1,6 @@
 import { Header } from "@/components/header";
 import { Hero } from "@/components/hero";
+
 import { Features } from "@/components/features";
 import { Security } from "@/components/security";
 import { CTA } from "@/components/cta";
